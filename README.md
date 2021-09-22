@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lv90-lukas
-- 👀 I’m interested in developing easy, smart, light weight stuff.
+- 👀 I’m interested in developing an approach that translates digital processes into physical shapes.
 - 🌱 I’m currently learning social design.
 - 💞️ I’m looking to collaborate on developing practices that allow to gain an understanding on how AI and algorithms shape our society.
 - 📫 How to reach me hello@lukasvoelp.de
